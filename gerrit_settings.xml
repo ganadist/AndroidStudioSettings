@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="youngho.cha" Host="http://sel-build2014.wrs.com:8080" ListAllChanges="false" AutomaticRefresh="false" RefreshTimeout="0" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" />
+</application>
