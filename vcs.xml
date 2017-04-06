@@ -14,8 +14,12 @@
           <option name="url" value="ssh://youngho.cha@sel-build2014.wrs.com:29418/manifests" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/limboemu/limbo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/work/aosp/pfxos_mrb" />
+    <option name="cloneParentDir" value="$USER_HOME$/src/work/oss/" />
   </component>
 </application>
